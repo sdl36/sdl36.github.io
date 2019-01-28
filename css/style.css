@@ -1,0 +1,15 @@
+hr {
+margin-bottom: 35px;
+margin-top: 25px;
+}
+li {
+color: blue;
+}
+code {
+  font-family: "Helvetica";
+  text-decoration: underline;
+}
+.caption {
+  width: 50%;
+  font-style: italic;
+}
