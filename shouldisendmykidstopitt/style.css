@@ -6,3 +6,7 @@ p {text-indent: 30px;}
 .byline {text-align: center;}
 html {background-color: lightgray;}
 body {background-color: lightgray;}
+.list {margin-left: 55px;
+margin-right: 275px;}
+.endnotes {margin-left: 75px;
+  margin-right:75px;}
