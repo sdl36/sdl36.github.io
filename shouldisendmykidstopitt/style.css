@@ -1,15 +1,15 @@
-p {margin-left: 55px;
-margin-right: 55px;
+p {margin-left: 200px;
+margin-right: 200px;
 text-indent: 30px;}
 h1, h2, h3 {
   text-align: center;}
 html {background-color: lightgray;}
 body {background-color: lightgray;}
-.list {margin-left: 55px;
+.list {margin-left: 200px;
 margin-right: 275px;}
-.endnotes {margin-left: 75px;
-  margin-right:75px;}
+.endnotes {margin-left: 225px;
+  margin-right:200px;}
 #barchart, #heatmap {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;}
+  width: 75%;}
