@@ -10,3 +10,9 @@ body {background-color: lightgray;}
 margin-right: 275px;}
 .endnotes {margin-left: 75px;
   margin-right:75px;}
+.barchart {
+  margin: auto;
+  width: 50%;}
+.heatmap {
+  margin: auto;
+  width: 50%;}
