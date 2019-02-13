@@ -9,7 +9,7 @@ body {background-color: lightgray;}
 margin-right: 275px;}
 .endnotes {margin-left: 75px;
   margin-right:75px;}
-.tableauPlaceholder {
+#barchart, #heatmap {
   margin-left: auto;
   margin-right: auto;
   width: 50%;}
