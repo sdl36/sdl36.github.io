@@ -1,7 +1,8 @@
-.header {
+header {
   background-color: grey;
   color: white;
   padding: 15px;
+  margin-top: 50px;
 }
 p {
   margin-left: 200px;
