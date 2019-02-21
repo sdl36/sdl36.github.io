@@ -1,16 +1,16 @@
-dl {
+ul.mainmenu {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-.menuitems {
+li.menuitems {
   float: left;
   border-right: 1px solid #bbb;
 }
 
-.menulink {
+a.menulink {
   display: block;
   padding: 8px;
   background-color: #dddddd;
