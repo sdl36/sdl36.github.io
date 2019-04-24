@@ -1,0 +1,14 @@
+h1, {
+  text-align: center;
+  font-family: Georgia, Times, serif;
+}
+
+h3, h4 {
+  margin-left: 100px;
+  font-style: italic;
+}
+
+.endnotes {
+  margin-left: 225px;
+  margin-right: 200px;
+}
